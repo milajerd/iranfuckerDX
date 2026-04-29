@@ -133,16 +133,8 @@ Parallel downloads not working?
 · Switch to sequential mode for problematic URLs
 
 ---
-                                       ___________________
-📞 Support                            |    GIVE   ME     |
-                                       |   PLAYLIST DL   |
-· Original project: AVASAM             __________________
-· Forked version: Poo poo downloader    ___    |
-thank you intellix senpai          ____/._.\___|
-                                       \___/
-                                       |   |
-                                       |   |
+📞 Support
+
+· Original project: AVASAM
+· Forked version: Poo poo downloader
 ---
-
-
-than
